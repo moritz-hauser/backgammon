@@ -1,0 +1,10 @@
+# Eclipse spezifische Dateien
+/.metadata/
+/bin/
+/.settings/
+/.classpath
+.project
+
+# Java Build-Verzeichnisse
+/target/
+/out/
